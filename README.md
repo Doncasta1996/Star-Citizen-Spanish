@@ -1,5 +1,4 @@
 # Star-Citizen-Spanish
-Archivos de traducción al Español de Star Citizen
 Hola.
 
 Esto es un tutorial para instalar la version española del texto de Star Citizen.
