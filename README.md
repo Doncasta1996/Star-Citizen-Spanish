@@ -38,7 +38,3 @@ Colaboracion con Autovot, JimmyVaras, Keiran, 𐒝órnacκ®, Sπeler, ZettaZ :h
 --------========*******   ¡¡¡¡¡ATENCION!!!!! ******=======---------
 SI NO SABES LO QUE ESTAS TOCANDO, NO LO TOQUES.
 SI TIENES ALGUNA IDEA, ENCUENTRAS ALGUN ERROR O QUIERES COLABORAR EN LA TRACUCCION, ENTRA EN NUESTRO DISCORD.
-
-GITHUB - [https://github.com/Doncasta1996](https://github.com/Doncasta1996/Star-Citizen-Spanish)
-TWITCH - https://www.twitch.tv/jota_be
-DISCORD - https://discord.gg/bjXEegnrff
