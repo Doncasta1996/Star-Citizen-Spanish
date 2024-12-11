@@ -2,7 +2,7 @@
 Hola.
 
 Esto es un tutorial para instalar la version española del texto de Star Citizen.
-Traducida por Jota_be( https://www.twitch.tv/jota_be) y Jose_Pacheco.
+Traducida por Jose_Pacheco.
 
 
 ------======   Instrucciones   ======------
