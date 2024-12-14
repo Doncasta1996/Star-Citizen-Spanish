@@ -1,12 +1,12 @@
 Hola.
 
 Esto es un tutorial para instalar la version española del texto de Star Citizen.
-Traducida por Jota_be( https://www.twitch.tv/jota_be) y Jose_Pacheco.
+Traducida por Jose_Pacheco.
 
 
 ------======   Instrucciones   ======------
 
-Extrae el contenido de este archivo en la carpeta StarCitizen\LIVE de la instalacion de tu juego. ( Tambien sirve para PTU)
+Extrae el contenido de este archivo en la carpeta StarCitizen\LIVE de la instalacion de tu juego. ( Tambien sirve para PTU )
 
 Se crearan AUTOMATICAMENTE varios archivos de configuracion:
 
@@ -39,5 +39,3 @@ SI NO SABES LO QUE ESTAS TOCANDO, NO LO TOQUES.
 SI TIENES ALGUNA IDEA, ENCUENTRAS ALGUN ERROR O QUIERES COLABORAR EN LA TRACUCCION, ENTRA EN NUESTRO DISCORD.
 
 GITHUB - https://github.com/Doncasta1996/Star-Citizen-Spanish
-TWITCH - https://www.twitch.tv/jota_be
-DISCORD - https://discord.gg/bjXEegnrff
