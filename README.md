@@ -1,40 +1,44 @@
-# Star-Citizen-Spanish
-Hola.
+# Star Citizen - Español
+Este es un tutorial para instalar la versión **española** del texto de *Star Citizen*, traducida por **Jose_Pacheco**.
 
-Esto es un tutorial para instalar la version española del texto de Star Citizen.
-Traducida por Jose_Pacheco.
+---
 
+## 🚀 Instrucciones de instalación
+1. Extrae el contenido de este archivo en la carpeta: `StarCitizen\LIVE`  
+   *(También funciona en PTU)*
 
-------======   Instrucciones   ======------
+2. Se crearán automáticamente varios archivos de configuración:  
+   - `user.cfg` en `StarCitizen\LIVE`  
+   - `global.ini` en `StarCitizen\LIVE\data\Localization\spanish_(spain)` → contiene todo el texto traducido.
 
-Extrae el contenido de este archivo en la carpeta StarCitizen\LIVE de la instalacion de tu juego. ( Tambien sirve para PTU)
+---
 
-Se crearan AUTOMATICAMENTE varios archivos de configuracion:
+## 📦 Instalación manual
+Si prefieres hacerlo manualmente:
 
-1º Creacion de user.cfg en \StarCitizen\LIVE 
+- Extrae o copia el archivo `user.cfg` en: `StarCitizen\LIVE`  
+  *(O añade su contenido a tu propio user.cfg)*
 
-2º Creacion de global.ini en \data\Localization\spanish_(spain), que contiene todo el texto traducido.
+- Extrae o copia el archivo `global.ini` en: `StarCitizen\LIVE\data\Localization\spanish_(spain)`  
+  *(Crea las carpetas si no existen previamente)*
 
+---
 
+## ⚠️ Errores conocidos
+- Algunos errores aún están en proceso de revisión:  
+  - Menús  
+  - Tildes y acentos  
+  - Textos de misiones  
 
---===INSTALACION MANUAL====-----
+---
 
-Si prefieres extraerlo a mano, puedes extraer el archivo user.cfg a la carpeta: \StarCitizen\LIVE 
-O actualizar su contenido en tu propio user.cfg
-Y el archivo global.ini en \data\Localization\spanish_(spain)  ( tendras que crear las carpetas si no las tienes ya creadas)
+## 🤝 Colaboraciones
+Colaboración con: **Autovot, JimmyVaras, Keiran, 𐒝órnacκ®, Sπeler, ZettaZ**  
+👉 [Repositorio en GitHub](https://github.com/Autovot/SC_Spanish_SOK)
 
+---
 
-
-
-
-Errores Conocidos: 
-*.Hay algunos errores que se iran solucionando en la traduccion, menus, etc, muchos acentos, tildes y texto de misiones estan en proceso de revision.
-
-
-Colaboraciones:
-Colaboracion con Autovot, JimmyVaras, Keiran, 𐒝órnacκ®, Sπeler, ZettaZ :https://github.com/Autovot/SC_Spanish_SOK
-
-
---------========*******   ¡¡¡¡¡ATENCION!!!!! ******=======---------
-SI NO SABES LO QUE ESTAS TOCANDO, NO LO TOQUES.
-SI TIENES ALGUNA IDEA, ENCUENTRAS ALGUN ERROR O QUIERES COLABORAR EN LA TRACUCCION, ENTRA EN NUESTRO DISCORD.
+## 📢 Atención
+> **¡¡¡ATENCIÓN!!!**  
+> - Si no sabes lo que estás tocando, **no lo toques**.  
+> - Si encuentras algún error, tienes alguna idea o quieres colaborar en la traducción, entra en nuestro **Discord**.  
