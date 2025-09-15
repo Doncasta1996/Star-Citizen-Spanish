@@ -27,7 +27,7 @@ Si prefieres hacerlo manualmente:
 ## ⚠️ Errores conocidos
 - Algunos errores aún están en proceso de revisión:  
   - Menús  
-  - Tildes y acentos  
+  - Tildes y acentos  -> Eliminados por motivos de errores
   - Textos de misiones  
 
 ---
