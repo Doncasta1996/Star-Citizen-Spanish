@@ -1,5 +1,6 @@
 # Star Citizen - Español
 Este es un tutorial para instalar la versión **española** del texto de *Star Citizen*, traducida por **Jose_Pacheco**.
+Fork creado para añadir el detalle de los componentes siguiendo el formato *Nombre* Grado Clase, por ejemplo, *Glacier* Militar A
 
 ---
 
