@@ -1,0 +1,14 @@
+﻿Revision manual de blueprints trasladados desde english/modified_global.ini
+Fecha: 2026-03-28
+
+Claves rehechas automaticamente: 209
+Entradas de revision: 
+7
+
+NONSTANDARD_REGION_MARKER\tcfp_defend-criminals_desc_001\t<EM4>Region outpost_regionab</EM4>
+NONSTANDARD_REGION_MARKER\tShubin_Industrial_ShipMining_VH_Org_Desc_001\t<EM4>Region pyronyx</EM4>
+NONSTANDARD_REGION_MARKER\tShubin_Industrial_ShipMining_VH_Org_Desc_001\t<EM4>Region stanton</EM4>
+SOURCE_BLANK_BLUEPRINT_LINE\tHockrow_FacilityDelve_P2M3_Repeat_desc
+SOURCE_BLANK_BLUEPRINT_LINE\tInterSec_SecurityPatrol_H_Desc_001
+SOURCE_BLANK_BLUEPRINT_LINE\tInterSec_SecurityPatrol_S_Desc_001
+SOURCE_BLANK_BLUEPRINT_LINE\tInterSec_SecurityPatrol_VH_desc_001
