@@ -23,29 +23,24 @@ El mismo paquete sirve para LIVE y PTU. Instálalo en la carpeta del canal donde
 
 1. **Cierra Star Citizen.**
 2. Descarga el ZIP y descomprímelo.
-3. Abre la carpeta descomprimida y copia la carpeta **`data`** dentro de tu instalación:
+3. Copia el archivo **`user.cfg`** y la carpeta **`data`** incluidos en el ZIP y pégalos en la carpeta del canal donde juegues.
    - **LIVE:** `StarCitizen\LIVE`
    - **PTU:** `StarCitizen\PTU`
-4. Abre el archivo **`user.cfg`** de esa misma carpeta y añade esta línea:
-```ini
-g_language = spanish_(spain)
-```
+4. Inicia el juego.
 
-Si todavía no tienes `user.cfg`, créalo con ese nombre y contenido. Comprueba que Windows no lo guarde como `user.cfg.txt`.
-
-### 📂 Ubicación del archivo de traducción
+### 📂 Ubicación de los archivos
 
 Para **LIVE**:
-```scss
+```text
+StarCitizen\LIVE\user.cfg
 StarCitizen\LIVE\data\Localization\spanish_(spain)\global.ini
 ```
 
 Para **PTU**:
-```scss
+```text
+StarCitizen\PTU\user.cfg
 StarCitizen\PTU\data\Localization\spanish_(spain)\global.ini
 ```
-
-5. Inicia el juego.
 
 ---
 
@@ -67,8 +62,7 @@ Comprueba lo siguiente:
 
 - Has instalado los archivos en el canal que estás ejecutando.
 - `global.ini` está en la ruta indicada arriba.
-- `user.cfg` está directamente dentro de `LIVE` o `PTU`.
-- El nombre del archivo es `user.cfg`, sin la extensión adicional `.txt`.
+- Has copiado el `user.cfg` incluido en el ZIP en `LIVE` o `PTU`, junto a la carpeta `data`.
 - La línea del idioma coincide exactamente con:
 ```ini
 g_language = spanish_(spain)
