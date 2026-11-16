@@ -8,9 +8,9 @@ Traducción de los textos de **Star Citizen al español de España**, compatible
 | Canal | Versión compatible |
 |---|---|
 | **LIVE** | **4.10.3-LIVE.13165946** |
-| **PTU** | **5.0.0-PTU.13189690** |
+| **PTU** | **5.0.0-PTU.13201184** |
 
-**Última actualización de la traducción:** 14/11/2026.
+**Última actualización de la traducción:** 16/11/2026.
 
 ### [⬇️ Descargar traducción para LIVE y PTU](https://github.com/Doncasta1996/Star-Citizen-Spanish/archive/refs/heads/main.zip)
 
